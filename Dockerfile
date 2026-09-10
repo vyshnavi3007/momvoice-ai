@@ -12,4 +12,4 @@ COPY . .
 ENV PORT=8080
 ENV RUN_MODE=cloud_run
 
-CMD ["python", "bot.py"]
+CMD ["python", "src/bot.py"]
