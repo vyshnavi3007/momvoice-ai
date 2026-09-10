@@ -1,0 +1,6 @@
+google-adk
+python-telegram-bot[webhooks]
+cloud-sql-python-connector
+pg8000
+sqlalchemy
+python-dotenv
