@@ -151,3 +151,4 @@ your terminal locally, just from the cloud.
   Vertex AI Model Garden, for lower cost
 - BigQuery export + Looker Studio dashboards (Phase 2)
 
+# Personal---Learning
